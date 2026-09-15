@@ -1,0 +1,2 @@
+# Global_Socio_Economic_Drivers_of_Primary_and_Secondary_Education_Efficiency
+Primary and secondary education outcomes are heavily tied to national economic infrastructure and population health indicators. This report analyzes cross-national data to evaluate how macroeconomic standing (GDP per capita, unemployment) and social wellbeing (life expectancy) impact primary and secondary school repetition and out-of-school rates.
